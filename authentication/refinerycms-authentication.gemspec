@@ -22,5 +22,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'refinerycms-core',  version
   s.add_dependency 'devise',            '~> 2.2.5'
-  s.add_dependency 'orm_adapter',       '~> 0.0.7'
+  s.add_dependency 'orm_adapter',       '~> 0.1.0'
 end
